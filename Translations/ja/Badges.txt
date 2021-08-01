@@ -42,3 +42,13 @@ SCP:SL オーディオマネージャー
 Northwood フィードバックチーム
 Northwood 認証スーパーバイザー
 SCP:SL 公式サーバースーパーバイザー
+Northwood フィードバックスーパーバイザー
+Northwood 認証マネージャー
+Northwood ボットマネージャー
+Northwood 翻訳マネージャー
+SCP:SL ゲームデザインマネージャー
+SCP:SL アニメーター
+Northwood PRディレクター
+SCP:SL ヘルパー
+SCP:SL 声優
+SCP:SL 財団投資家

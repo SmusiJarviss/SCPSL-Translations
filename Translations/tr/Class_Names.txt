@@ -18,4 +18,4 @@ SCP-939-53
 SCP-939-89
 Kaos İsyancısı Piyade
 Kaos İsyancısı Akıncı
-Kaos İsyancısı Çapulcu
+Kaos İsyancısı Yağmacı

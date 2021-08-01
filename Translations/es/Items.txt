@@ -1,0 +1,37 @@
+0~Tarjeta de Conserje
+1~Tarjeta de Científico
+2~Tarjeta de Supervisor de investigación
+3~Tarjeta de Gerente de zonas
+4~Tarjeta de Guardia de seguridad
+5~Tarjeta de Soldado raso de la MTF
+6~Tarjeta de Ingeniero de Contención
+7~Tarjeta de Sargento de la MTF
+8~Tarjeta de Capitan de la MTF
+9~Tarjeta de Administrador
+10~Aparato de los Insurgentes del Caos
+11~Tarjeta Nivel-05
+12~Radio
+13~COM-15
+14~Botiquín primeros auxilios~Cura tus heridas.
+15~Linterna~¡Que se haga la luz!
+16~Micro H.I.D.~Desintegrador Móvil de Alta Intensidad.
+17~SCP-500~La panacea.
+18~SCP-207~Aumenta tu velocidad de movimiento de una forma dolorosa.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Granada de fragmentación~¡Boom!
+26~Granada cegadora~¡Ciega a tus enemigos!
+30~COM-18
+31~SCP-018~Superbola capaz de rebotar con eficiencia extrema.
+32~SCP-268~Equipada, te hace temporalmente invisible a no ser que se interrumpa por alguna acción del jugador.
+33~Adrenalina~Aumenta temporalmente la resistencia.
+34~Analgésicos~Cura heridas menores.
+35~Coin~No estás seguro por qué quieres guardar esto...
+36~Armadura Ligera
+37~Armadura de combate
+38~Armadura pesada
+39~Revolver .44
+40~AK
+41~Escopeta

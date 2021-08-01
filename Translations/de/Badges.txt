@@ -42,3 +42,13 @@ SCP:SL Audio Manager
 Northwood Feedback Team
 Northwood Verification Supervisor
 SCP:SL Official Server Supervisor
+Northwood Feedback Supervisor
+Northwood Verification Manager
+Northwood Bot Manager
+Northwood Translation Manager
+SCP:SL Game Design Manager
+SCP:SL Animator
+Northwood Public Relations Director
+SCP:SL Helper
+SCP:SL Voice Actor
+SCP:SL Foundation Investor

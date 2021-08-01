@@ -1,15 +1,17 @@
 Cephane {0}/{1} {2}
 Hasar
 Atış Oranı
-Silah İsabetliliği
-Nişan Doğruluğu
+İsabetlilik
+İsabetlilik (Nişan alırken)
 Ağırlık
 Uzunluk
-DÜŞME:
+BIRAK:
 Kask Etkinliği
 Yelek Etkinliği
 Enerji Kullanımı
-Koşma Hızı
+Hareket Hızı
 Eşya Limiti:
 Cephane Limiti:
-toplamda {0}
+Toplamda {0}
+Zırh Delme
+İsabetlilik (Koşarken)

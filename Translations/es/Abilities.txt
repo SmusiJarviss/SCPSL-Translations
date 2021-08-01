@@ -4,10 +4,10 @@ Sigilo:Tu movimiento se hace más silencioso a costa de velocidad de movimiento.
 Inventario:Abre tu inventario y selecciona el objeto usando clic izquierdo. Usa clic derecho para soltar.
 Desarmado:No tienes nada. Encuentra algo, lo que sea, y rápido.
 Tarjeta de acceso:Tienes una tarjeta de acceso, no es la mejor, pero no la pierdas.
-Equipamiento estándar:Tienes en el inventario un rifle, granadas, una radio, un desarmador y una tarjeta de acceso.
+Equipamiento estándar:Tienes en el inventario un rifle, granadas, una radio y una tarjeta de acceso.
 Armado y Peligroso:Te han asignado una ametralladora ligera, una herramienta de hackeo (tarjeta de acceso) y un botiquín.
-Velocidad vertiginosa:Cuando ningún humano puede verte te mueves muy rápido. Si un humano te mira directamente no podrás moverte ni atacar, pero todos los humanos parpadean simultáneamente cada varios segundos dándote la oportunidad de actuar.
-Pánico:Te mueves más rápido según tu vida disminuye.
+Velocidad vertiginosa:No importa donde se escondan, los encontraras en menos de lo que canta un gallo y te verán por menos tiempo. Duplica tu velocidad de movimiento y la distancia de parpadeo con coste a tu letalidad. Permanece hasta poco después de ser visto o hasta que se cancelado manualmente.
+Parpadeo:En el momento que te hayan puesto el ojo encima haz que se arrepientan por perder el contacto visual, aunque sea solo por un momento. Cuando el ojo sea carmesí mantén y mueve el cursor a la posición deseada. Suelta para teletransportarte y matar al humano mas cercano en una distancia de 2 metros.
 Portal:Colocas o te teletransportas a tu portal, el cual se representa con una mancha negra en el suelo.\nSolo puedes tener un único portal a la vez, el cual puedes mover en cualquier momento. Teletransportarse tarda unos segundos.
 Corrosión:Puedes traspasar puertas al caminar a través ellas.
 Canción del Cisne: Prácticamente no recibes daño de ninguna fuente, excepto de explosivos y electricidad, pero puedes ser recontenido por un sacrificio humano en tu cámara.
@@ -26,5 +26,6 @@ Abrir/Cerrar Puertas:Puedes interactuar con las puertas para abrir y cerrarlas p
 Sobrecarga Tesla:Puedes activar un tesla por 50 de EA, lo que provocará grandes daños o incluso la muerte a todos los jugadores que estén en él.
 Apagón:Al llegar al Nivel de Acceso 2, puedes interactuar con algunas salas para bloquear todas las puertas y apagar todas las luces de dicha sala. Mientras las luces estén apagadas, los humanos no podrán ver a SCP-173.
 Virtualmente indestructible: Cinco generadores aparecen en la zona de contención pesada, si todos los generadores son activados serás recontenido. Los generadores pueden ser desactivados pulsando el boton rojo de "CANCELAR".
-Rompe cuellos:Mantén o pulsa clic izquierdo para romper cuellos. Atacar a un humano que esté en rango mientras parpadean provocará su muerte de forma instantánea.
-Carga (Furia): Ciérrales las vías de escape - se lo merecen. Corres a frenéticamente, derrumbando todo lo que encuentras a tu paso en un rango. Si chocas contra una puerta pesada, la atraviesas.
+Hormigón armado:Acepte sus miradas de admiración y defiéndase de los vándalos. Tienes una resistencia innata contra las armas de fuego. Las armas de baja penetración no te harán ni cosquillas en comparación con las armas que tengan perforacion.
+Carga (Furia):Ciérrales las vías de escape - se lo merecen. Corres a frenéticamente, derrumbando todo lo que encuentras a tu paso en un rango. Si chocas contra una puerta pesada, la atraviesas.
+Rabieta:Haga que conozcan su furia. Crea un charco de suciedad a tus pies que mancha y inhibe en gran medida la movilidad de los humanos que lo intentan cruzar. Matar humanos manchados recuperara una parte de tu Escudo Hume

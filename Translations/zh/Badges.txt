@@ -28,7 +28,7 @@ SCP:SL官方 首席游戏策划
 SCP:SL官方 首席游戏逻辑程序员
 SCP:SL官方 游戏关卡设计师
 SCP:SL官方 合作伙伴
-SCP:SL官方 Patreon支持者
+SCP:SL官方 Patreon众筹支持者
 SCP:SL官方 质量保证经理
 SCP:SL官方 音效师
 SCP:SL官方 游戏总监
@@ -43,6 +43,11 @@ Northwood工作室官方 反馈协调员
 Northwood工作室官方 游戏审核主管
 SCP:SL 官方服务器主管
 Northwood工作室官方 反馈主管
+Northwood工作室官方 游戏审核经理
+Northwood工作室官方 机器人部门经理
+Northwood工作室官方 翻译部门经理
+Northwood工作室官方 游戏策划部门经理
+SCP:SL官方 动画设计师
 Northwood工作室官方 公关总监
 SCP:SL 助手
 SCP:SL官方 配音演员

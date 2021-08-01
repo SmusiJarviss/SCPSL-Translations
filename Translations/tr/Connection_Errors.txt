@@ -35,3 +35,4 @@
 <size=80>BAĞLANTI KESİLDİ</size>\nSunucunun güvenlik doğrulaması işlenmesi başarısız oldu.
 <size=80>BAĞLANTI KESİLDİ</size>\nSunucunun güvenlik doğrulaması işlenmesi sunucu için çok yavaş.\nLütfen tekrar deneyin veya sunucu yetkililerine ulaşın.
 <size=80>DOĞRULAMA HATASI</size>\nMerkez Sunucu Mesajı: [message].
+<size=80>BAĞLANTI KESİLDİ</size>\nSunucu kapanıyor.

@@ -6,10 +6,12 @@ Zielende Genauigkeit
 Gewicht
 Länge
 DROP:
-Helm Wirksamkeit
-Westen Wirksamkeit
+Helmeffizienz
+Westeneffizienz
 Ausdauerverbrauch
 Bewegungsgeschwindigkeit
-Itemlimit:
-Munitionslimit:
-{0} total
+Item Limits:
+Munitions Limits:
+{0} komplett
+Panzerpenetration
+Rennen Genauigkeit

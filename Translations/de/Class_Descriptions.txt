@@ -1,4 +1,4 @@
-Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nHalte linksklick + W und ziele auf deinen Gegner um Ihn zu töten.\nDu bist schneller bei niedriger HP.</color>
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nHalte deine Zieltaste gedrückt, während du beobachtet wirst um zu Blinzeln.\nDu hast eine leichte Resistenz gegen Schusswaffenschaden und regenerierst allmählich deinen Hume Schild.</color>
 Entkomme der Einrichtung.\nKooperiere mit der <color=#008F1E>Chaos Insurgency.</color>\nMeide andere Fraktionen.
 Du wirst bald wiederbelebt.
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nDu kannst durch Türen laufen.\nLinksklick schadet deinen Gegnern und teleportiert sie in deine "Pocket Dimension".\nHalte TAB um deine Fähigkeiten abzurufen.</color>

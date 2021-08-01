@@ -30,7 +30,7 @@ Dikey Senkronizasyon
 FPS Limit
 Kapalı
 Doku Kalitesi
-Maksimum Kan Miktarı
+Parçacıklar
 Gölgeler
 Gölge Çözünürlüğü
 Gölge Mesafesi
@@ -85,5 +85,8 @@ DAHA FAZLASINI OKU
 BİR SUNUCU KİRALA
 İPTAL
 İkinci
-Oyunumuzu oynadığınız için!
+oyunumuzu oynadığınız için!
 Doğduğunda Görev Çubuğunu aydınlat
+Ortam Işığı
+Hacimsel Aydınlatma
+Bloom

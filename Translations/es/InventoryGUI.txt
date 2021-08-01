@@ -1,0 +1,17 @@
+munición {0}/{1} {2}
+Daño
+Cadencia de disparo
+Precisión desde la cadera
+Precisión usando la mira
+Peso
+Longitud
+Soltar:
+Eficacia del casco
+Eficacia del chaleco
+Uso de resistencia
+Velocidad de movimiento
+Limite de objetos:
+Limite de munición:
+{0} total
+Penetración de armadura
+Precisión al correr

@@ -1,0 +1,10 @@
+Ninguno
+Tarjeta de acceso
+Articulo medico
+Radio
+Arma de fuego
+Granada
+Objeto SCP
+Micro H.I.D.
+Municion
+Armadura personal

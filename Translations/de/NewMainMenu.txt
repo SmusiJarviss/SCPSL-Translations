@@ -86,3 +86,7 @@ Grafik API
 <size=18>ABBRECHEN</size>
 Sekunde
 Für das spielen unseres Spieles!
+Taskleiste beim Spawn aufblinken lassen
+Umgebungsunschärfe
+Volumetrische Lichter
+Bloom

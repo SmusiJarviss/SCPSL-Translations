@@ -28,3 +28,4 @@ Lockdown:Startet mit Access Level 2, du kannst mit Räumen interagieren um sie i
 Praktisch unzerstörbar: Fünf Generatoren spawnen in der Heavy Containment Zone. Wenn alle entriegelt und aktiviert sind wirst du eingedämmt.\nGeneratoren haben eine Hochfahrsequenz, welche von jedem Spieler abgebrochen werden kann, indem der "CANCEL" Knopf des Generators gedrückt wird.
 Genickbruch:Halte oder klicke auf einen Menschen um sein Genick zu brechen. Dies tötet Ihn sofort, solange er dich entweder nicht sehen kann oder blinzelt.
 Attacke! (Rage):Schneide Ihnen den Weg zum entkommen ab - Sie verdienen es! Du schnellst vorraus und zestörst alles in deinem Weg. Wenn du auf ein Heavy Gate triffst, zwängst du dich durch es hindurch.
+Tantrum:Lass sie deine Wut spüren! Kreiere eine Pfütze aus Schmutz unter dir, die jeden Menschen kurzzeitig verlangsamt und befleckt. Das töten von befleckten Spielern regeneriert einen Teil deines Hume Schilds.

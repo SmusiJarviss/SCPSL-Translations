@@ -1,0 +1,43 @@
+Nichts~Standardoption ohne Effekte.
+Offene Visierung~Kimme und Korn deiner Waffe, ein einfaches und leichtes Visier. 
+Punktvisier~Ein Reflexvisier ohne Vergrößerung, ausgestattet mit einem kleinen leuchtenden Punkt der das Anvisieren vereinfacht.
+Holografisches Visier~Holografisches Visier ohne Vergrößerung, ist am effektivsten in Nahkämpfen.
+Nachtsichtvisier~Teleskopartiges Visier, ausgestattet mit einem Nachtsichtgerät. Schwer aber doch Effektiv in allen Lichtverhälltnissen.
+Munitionszähler~Kimme und Korn mit integriertem Munitionszähler. 
+Teleskopvisier~Schweres Visier, welches optimale optische Vergrößerung anbietet. Perfekt für Fernkämpfe, allerdings limitiert durch die Wahrnehmung. 
+Einfacher Schaft~Einfacher Schaft, liefert bessere Kontrolle über die Waffe wenn man Zielt.
+Langer Schaft~liefert bessere Kontrolle über die Waffe wenn man Zielt, erhöht allerdings die Ausrüstungszeit.
+Eingezogener Schaft~Macht die Waffe kompakter, dadurch wird die Mobiliät erhöht.
+Leichter Schaft~Reduziert das Gewicht der Waffe, wodurch aber der Rückstoß deutlich schwerer zu kontrollieren ist wenn man Zielt.
+Schwerer Stock~Erhöht das Gewicht und verringert die Mobilität, dadurch erhöht sich aber die Rückstoßkontrolle beim Zielen. 
+Rückstoßvermindernder Schaft~Schaft ausgestattet mit einem System das den Rückstoß zwischen individuellen Schüssen ausgleicht.
+Vordergriff~Vertikaler Vordergriff. Macht es einfacher die Laufbewegung zu kontrollieren.
+Laservisier~Gibt einem ein Referenzpunkt auf dem Ziel, was Hüftfeuer vereinfacht aber auch deine Position preisgibt.
+Taschenlampe~Schaltbare Lichtquelle. Erhöht zwar das Gewicht deiner Waffe, kann aber in dunklen Räumen dein Leben retten.
+Munitionszähler~Gerät das die restliche Munition zählt. Experimentelle Technologie welche sich als brauchbar bewährt hat, besonders mit großen Magazinen.
+Einfacher Lauf~Konventioneller Lauf ohne Mündungsveränderungen.
+Langer Lauf~Verbessert die Feuerkraft, allerdings auf Kosten von Mobilität.
+Schalldämpfer~Geräuschmoderator. Reduziert die Lautstärke von Schüssen, erhöht aber die Länge und das Gewicht der Waffe. 
+Mündungsfeuerdämpfer~Eliminiert das Mündungsfeuer. Macht das schießen in dunkler Umgebung einfacher.
+Mündungsbremse~Rückstoßkompensator. Nutzt Beschleunigungsgase um den Rückstoß zu verringern. Erhöht die Lautstärke der Schüsse.
+Mündungsverstärker~Erhöht die Feuerrate, resultiert in höheren Schaden pro Sekunde. Die Waffe ist dadurch schwerer zu kontrollieren.
+FMJ Magazin~Standardmagazin dass Vollmantelmunition enthält.
+AP Magazin~Standardmagazin dass panzerbrechende Munition enthält.
+JHP Magazin~Standardmagazin dass Hohlspitzmunition enthält.
+Erweitertes FMJ Magazin~Erweitertes Magazin dass Vollmantelmunition enthält.
+Erweitertes AP Magazin~Erweitertes Magazin dass panzerbrechende Munition enthält.
+Erweitertes JHP Magazin~Erweitertes Magazin dass Hohlspitzmunition enthält.
+FMJ Trommelmagazin~Trommelmagazin dass Vollmantelmunition enthält.
+AP Trommelmagazin~Trommelmagazin dass panzerbrechende Munition enthält.
+JHP Trommelmagazin~Trommelmagazin dass Hohlspitzmunition enthält.
+Kleines FMJ Magazin~Kleines Magazin dass Vollmantelmunition enthält.
+Kleines AP Magazin~Kleines Magazin dass panzerbrechende Munition enthält.
+Kleines JHP Magazin~Kleines Magazin dass Hohlspitzmunition enthält.
+4-Schuss Zylinder~Enthält weniger Kugeln ist aber in der Lage mehr Schaden gegen gepanzerte Ziele auszurichten..
+6-Schuss Zylinder~Der Klassiker.
+8-Schuss Zylinder~Enthält mehr Kugeln, braucht aber durch einen stärkeren Abzug länger um akkurate Schüsse abzugeben.
+Karabinerempfänger~Regulärer Karabinerempfänger welcher ein guter Kompromiss zwischen Feuerkraft und Mobilität bildet.
+Gewehrempfänger~Größerer Empfänger welcher die Feuerkraft und Genauigkeit erhöht, allerdings verringert ein schwerere Gassystem die Schussrate.
+Kurzer Lauf~Kürzere Version des Standardlaufes, genutzt um die Ausrüstungszeit zu verringern und die Mobilität zu erhöhen.
+Choke~Vergrößerter Radius der Streuung aber verbessert die Einheitlichkeit des Schussmusters.
+Langer Lauf~ Verringert die Streuung minimal, erhöht allerdings das gesamte Gewicht und Länge der Waffe.
