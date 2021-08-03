@@ -7,7 +7,7 @@ Peso
 Ampiezza
 Fai cadere:
 Efficienza dell'Elmetto
-Efficienza del Giubotto
+Efficienza del Giubbotto
 Stamina impiegata
 Velocità
 Limite degli oggetti:
