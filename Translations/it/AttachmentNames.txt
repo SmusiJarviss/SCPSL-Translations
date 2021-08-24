@@ -17,7 +17,7 @@ Torcia~Fonte di illuminazione, attivabile. Aumenta il peso totale dell'arma, ma 
 Contatore di Munizioni~Dispositivo per il conteggio di munizioni. Tecnologia sperimentale che ha dimostrato di essere utile, soprattutto con caricatori ad alta capacità.
 Canna Standard~Canna convenzionale senza alcun dispositivo annesso.
 Canna Lunga~Migliora la potenza di fuoco complessiva, ma riduce la mobilità causata dall'aumento di peso e lunghezza.
-Silenziatore~Modera il suono, riducendone il volume degli spari, ma aumenterà il peso complessivo e la lunghezza dell'arma.
+Silenziatore~Modera il suono, riducendone il volume degli spari, ma aumenta il peso complessivo e la lunghezza dell'arma.
 Rompifiamma~Elimina la fiammata del colpo. Renderà più semplice sparare in caso di illuminazione ridotta.
 Freno di bocca~Compensatore per il rinculo. Utilizza gas propellenti per ridurre il rinculo, ma aumenta l'intensità acustica degli spari.
 Muzzle Booster~Aumentea la velocità di fuoco, che si traduce in più danni al secondo, ma diminuisce il controllo del rinculo.
