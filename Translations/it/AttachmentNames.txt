@@ -6,7 +6,7 @@ Mirino con Visore Notturno~Mirino di tipo TELESCOPICO con VISIONE NOTTURNA, pesa
 Mirino Contatore di Munizioni~Mirino di ferro con integrato un dipositivo per il conteggio delle munizioni rimanenti.
 Mirino Telescopisco~Mirino di tipo TELESCOPICO, perfetto per cecchini. Perfetto per il lungo raggio, ma limita la percezione complessiva.
 Calcio Standard~Calcio regolare, fornisce le migliori condizioni di stabilità in modalità mirino.
-Calcio Esteso~Fornisce una migliore prestazione in modalità mirino, ma aumenta il tempo di equipaggiamento.
+Calcio Esteso~Fornisce una migliore prestazione in modalità mirino, ma aumenta il tempo di estrazione.
 Calcio Pieghevole~Rende l'arma più compatta, aumentando la mobilità.
 Calcio Leggero~Riduce il peso dell'arma, ma diminuisce il controllo del rinculo in modalità mirino.
 Calcio Pesante~L'aumento di peso riduce la mobilità, ma rende l'arma più stabile in modalità mirino.
