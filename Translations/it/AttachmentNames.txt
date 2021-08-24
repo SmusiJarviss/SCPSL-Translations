@@ -20,7 +20,7 @@ Canna Lunga~Migliora la potenza di fuoco complessiva, ma riduce la mobilità cau
 Silenziatore~Modera il suono, riducendone il volume degli spari, ma aumenta il peso complessivo e la lunghezza dell'arma.
 Rompifiamma~Elimina la fiammata del colpo. Renderà più semplice sparare in caso di illuminazione ridotta.
 Freno di bocca~Compensatore per il rinculo. Utilizza gas propellenti per ridurre il rinculo, ma aumenta l'intensità acustica degli spari.
-Muzzle Booster~Aumentea la velocità di fuoco, che si traduce in più danni al secondo, ma diminuisce il controllo del rinculo.
+Muzzle Booster~Aumenta la velocità di fuoco, che si traduce in più danni al secondo, ma diminuisce il controllo del rinculo.
 Caricatore FMJ~Caricatore standard che contiene proiettili pieni di metallo (Full-Metal Jacket).
 Caricatore AP~Caricatore standard che contiene proiettili perforanti (Armor-Piercing).
 Caricatore JHP~Caricatore standard che contiene proiettili a punta cava (Hollow-Point).
