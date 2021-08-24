@@ -26,7 +26,7 @@
 30~COM-18
 31~SCP-018~Super-Palla in grado di ribalzare con un'efficienza estrema.
 32~SCP-268~Rende temporaneamente invisibile se indossato, a meno che non lo s'interrompa con una qualsiasi interazione.
-33~Adrenaline~Aumenta temporaneamente la resistenza.
+33~Adrenalina~Aumenta temporaneamente la resistenza.
 34~Antidolorifici~Allevia le piccole ferite.
 35~Moneta~Non sei sicuro del motivo per il quale la vorresti tenere...
 36~Corazza Leggera
