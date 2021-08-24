@@ -14,7 +14,7 @@
 13~COM-15
 14~Kit di Pronto Soccorso~Guarisce le tue ferite.
 15~Torcia Elettrica~Sia fatta la luce!
-16~Micro H.I.D.~Scaricatore di elettricità portatile, ad alta intensità.
+16~Micro H.I.D.~Arma a scarica elettrica ad alta intensità.
 17~SCP-500~La panacea.
 18~SCP-207~Aumenta le tue capacità motorie.
 20~MTF-E11-SR
