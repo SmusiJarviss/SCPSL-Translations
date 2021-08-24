@@ -12,7 +12,7 @@ Calcio Leggero~Riduce il peso dell'arma, ma diminuisce il controllo del rinculo 
 Calcio Pesante~L'aumento di peso riduce la mobilità, ma rende l'arma più stabile in modalità mirino.
 Calcio per il controllo del rinculo~Calcio dotato di un sistema apposito per la dispersione della forza tra i singoli colpi.
 Impugnatura Verticale~Impugnatura verticale anteriore. Permette di gestire il rinculo più facilmente.
-Puntatore laser~Fornisce la traiettoria di tiro sul bersagliom, aumentando la precisione senza mirare, ma può rivelare la tua posizione più facilmente.
+Puntatore laser~Fornisce la traiettoria di tiro sul bersaglio, aumentando la precisione senza mirare, ma può rivelare la tua posizione più facilmente.
 Torcia~Fonte di illuminazione, attivabile. Aumenta il peso totale dell'arma, ma può essere un salvavita nelle aree buie.
 Contatore di Munizioni~Dispositivo per il conteggio di munizioni. Tecnologia sperimentale che ha dimostrato di essere utile, soprattutto con caricatori ad alta capacità.
 Canna Standard~Canna convenzionale senza alcun dispositivo annesso.
