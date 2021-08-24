@@ -1,18 +1,18 @@
-Sparare
-Zoomare
-Saltare
-Interagire
+Spara
+Mira
+Salta
+Usa / Interagisci
 Inventario
-Ricaricare
-Correre
-Chat Vocale
-Accovacciarsi
+Ricarica
+Corri
+Chat vocale
+Accovacciati
 Avanti
-Dietro
-Sinistra
-Destra
+Indietro
+Muovi a Sinistra
+Muovi a Destra
 Lista utenti
-Informazioni caratteri
+Informazioni ruolo
 Remote Admin
 Torcia
 Radio
