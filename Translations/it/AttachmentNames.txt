@@ -33,9 +33,9 @@ Caricatore a tamburo JHP~Caricatore a tamburo che contiene proiettili a punta ca
 Caricatore ridotto FMJ~Caricatore a capacità ridotta che contiene proiettili pieni di metallo (Full-Metal Jacket).
 Caricatore ridotto AP~Caricatore a capacità ridotta che contiene proiettili perforanti (Armor-Piercing).
 Caricatore ridotto JHP~Caricatore a capacità ridotta che contiene proiettili a punta cava (Hollow-Point).
-Tamburo 4 Colpi~Contiene meno proiettili, ma è in grado di infliggere maggiori danni ai nemici corazzati.
-Tamburo 6 Colpi~Il classico tamburo a 6 colpi.
-Tamburo 8 Colpi~Contiene più proiettili, ma il grilletto richiede più tempo per l'esecuzione.
+Tamburo a 4 Colpi~Contiene meno proiettili, ma è in grado di infliggere maggiori danni ai nemici corazzati.
+Tamburo a 6 Colpi~Il classico tamburo a 6 colpi.
+Tamburo a 8 Colpi~Contiene più proiettili, ma il grilletto richiede più tempo per l'esecuzione.
 Canna Regolare~Canna normale della carabina che bilancia potenza di fuoco e mobilità.
 Canna Estesa~Canna estesa del fucile che migliora potenza di fuoco e precisione, ma un sfrutta un sistema a gas più pesante, riducendone il rateo di fuoco.
 Canna Ridotta~Versione ridotta della canna standard, utilizzata per migliorare tempo di estrazione e mobilità.
