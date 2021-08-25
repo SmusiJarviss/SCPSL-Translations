@@ -57,7 +57,7 @@ Lingua
 Menu principale
 Connetti
 Indietro
-Questa modifica richiederà un riavvio.\Riavviare ora il menu?
+Questa modifica richiederà un riavvio.\nRiavviare ora il menu?
 Si
 No
 Sei sicuro di voler uscire?
