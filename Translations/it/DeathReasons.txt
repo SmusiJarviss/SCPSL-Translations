@@ -21,7 +21,7 @@ Schegge e gravi ustioni causate da un'esplosione.
 Sei stato ucciso da un'esplosione che si trovava nelle immediate vicinanze.
 Lacerazioni massicce ed eccessiva perdita di sangue.
 Frattura cervicale alla base del cranio.
-Grandi, profondi segni di morso sul corpo può essere osservato.
+Grandi e profondi segni di morso sul corpo possono essere osservati.
 Trauma contundente e piccoli graffi sono presenti sul corpo.
 Ferite da proiettili [ammotype].
 Trauma contundente fatale; il corpo è gravemente mutilato e polverizzato.
